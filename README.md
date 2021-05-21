@@ -5,9 +5,6 @@
 	
 </head>
 <body>
-	
-
-
 <table class="table">
   <thead class="thead-light">
     <tr>
